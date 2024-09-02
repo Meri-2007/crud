@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "101",
+      "text": "change css styles",
+      "status": "completed"
+    },
+    {
+      "id": "102",
+      "text": "bug fix on modal",
+      "status": "completed"
+    },
+    {
+      "id": "104",
+      "text": "responsivness of main page",
+      "status": "in progress"
+    },
+    {
+      "id": "4c70",
+      "text": "sdcfds",
+      "status": "unstarted"
+    },
+    {
+      "id": "d9d6",
+      "text": "fsdf",
+      "status": "unstarted"
+    },
+    {
+      "id": "9656",
+      "text": "dfdvfds",
+      "status": "unstarted"
+    },
+    {
+      "id": "11a2",
+      "text": "sds",
+      "status": "completed"
+    }
+  ]
+}
